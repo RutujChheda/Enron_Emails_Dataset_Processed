@@ -5,7 +5,7 @@ Files
 
 The repository contains the following files:
 
-    Enron_normalization.ipynb: A Jupyter notebook that contains the code for normalizing the Enron dataset.
+    Enron_Data_normalization.ipynb: A Jupyter notebook that contains the code for normalizing the Enron dataset.
     requirements.txt: A file that lists the dependencies that need to be installed in order to run the code.
 
 #Instructions
